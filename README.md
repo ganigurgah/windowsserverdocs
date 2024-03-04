@@ -65,3 +65,9 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 ## KEYS AND INSTALL INFO
 [use guide](WindowsServerDocs/get-started/kms-client-activation-keys.md)
+
+## ACTIVATION
+
+slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
+slmgr /skms kms.digiboy.ir
+slmgr /ato
